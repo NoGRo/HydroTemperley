@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\javie\\Documents\\Arduino\\libraries\\Timer",
+                "C:\\Users\\javie\\Documents\\Arduino\\libraries\\SimpleTimer",
+                "C:\\Users\\javie\\Documents\\Arduino\\libraries\\Time",
+                "C:\\Users\\javie\\Documents\\Arduino\\libraries\\WiFiManager",
+                "C:\\Users\\javie\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\javie\\Documents\\Arduino\\libraries\\**",
+                "C:\\Program Files\\arduino-1.8.8\\libraries\\**",
+                "C:\\Users\\javie\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.1\\**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
